@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTracker", "BookTracker.csproj", "{296BF218-10A7-4539-ADC9-A41E8A48CE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296BF218-10A7-4539-ADC9-A41E8A48CE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296BF218-10A7-4539-ADC9-A41E8A48CE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296BF218-10A7-4539-ADC9-A41E8A48CE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296BF218-10A7-4539-ADC9-A41E8A48CE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501777A2-61AD-452D-A5AF-EA5AA6A176BD}
+	EndGlobalSection
+EndGlobal
